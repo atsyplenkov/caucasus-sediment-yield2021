@@ -4,7 +4,6 @@
 .Ruserdata
 /data/dem
 /data/soilgrid
-/data/spatial
 /data/terraclim
 /submit
 /data/tidy/ws_sim.Rdata
